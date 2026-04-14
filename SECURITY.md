@@ -4,9 +4,9 @@
 
 | Version | Supported | Security Updates Until |
 |---------|-----------|----------------------|
-| 1.x     | Yes       | TBD_AT_RELEASE + 5 years |
+| 1.x     | Yes       | TBD_AT_RELEASE + 2 years |
 
-The support commitment is 5 years from v1.0 release date, per EU Cyber Resilience Act (2024/2847) requirements.
+The support commitment is 2 years from v1.0 release date (declared expected product lifetime per EU Cyber Resilience Act (2024/2847) Article 13(8)).
 
 ## Reporting a Vulnerability
 
