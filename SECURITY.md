@@ -14,9 +14,7 @@ We take security seriously. If you discover a vulnerability in Dienstplaner, ple
 
 ### How to Report
 
-**Preferred:** Use [GitHub Security Advisories](https://github.com/Synecho/dienstplaner-security/security/advisories/new) for private vulnerability reporting. This allows us to work on a fix before public disclosure. You do not need access to the main codebase — reports submitted here are reviewed by the maintainers.
-
-**Alternative:** Email security@synecho.de with a description of the vulnerability, steps to reproduce, and potential impact.
+Use [GitHub Security Advisories](https://github.com/Synecho/dienstplaner-security/security/advisories/new) for private vulnerability reporting. This allows us to work on a fix before public disclosure. You do not need access to the main codebase — reports submitted here are reviewed by the maintainers.
 
 ### Response Timeline
 
